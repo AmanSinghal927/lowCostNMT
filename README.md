@@ -1,0 +1,5 @@
+![alt text](https://github.com/AmanSinghal927/lowCostNMT/blob/main/page-1.jpg)
+![alt text](https://github.com/AmanSinghal927/lowCostNMT/blob/main/page-2.jpg)
+![alt text](https://github.com/AmanSinghal927/lowCostNMT/blob/main/page-3.jpg)
+![alt text](https://github.com/AmanSinghal927/lowCostNMT/blob/main/page-4.jpg)
+![alt text](https://github.com/AmanSinghal927/lowCostNMT/blob/main/page-5.jpg)
